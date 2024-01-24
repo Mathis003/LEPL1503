@@ -1,6 +1,6 @@
 #include <stdio.h>
-
 #include <string.h>
+
 /*
 * @return: returns true (1) if str is a palindrome, -1 if str is NULL, otherwise false (0).
 */
